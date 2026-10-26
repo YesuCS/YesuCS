@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="996" height="541" viewBox="0 0 996 541" role="img" aria-label="YesuCS GitHub profile card">
+<svg xmlns="http://www.w3.org/2000/svg" width="988" height="541" viewBox="0 0 988 541" role="img" aria-label="YesuCS GitHub profile card">
 <title>YesuCS - GitHub profile</title>
-<rect x="1" y="1" width="994" height="539" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="986" height="539" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 <g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="13.0" dominant-baseline="alphabetic">
 <text x="26.0" y="42.9" fill="#adbac7" textLength="327.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   '!?|xXUOZZOUYx|?!.  ...</text>
 <text x="26.0" y="59.9" fill="#adbac7" textLength="304.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ."&lt;]jLoB$$$$$$WM&amp;B$$$$Bbwn</text>
@@ -37,7 +37,7 @@
 <text x="447.2" y="68.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="68.4" fill="#a371f7" textLength="23.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OS:</text>
 <text x="486.2" y="68.4" fill="#484f58" textLength="202.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........................ </text>
-<text x="689.0" y="68.4" fill="#c9d1d9" textLength="187.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Windows 11, macOS, Linux</text>
+<text x="689.0" y="68.4" fill="#c9d1d9" textLength="202.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Ubuntu, Arch, macOS, Win11</text>
 <text x="447.2" y="85.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="85.4" fill="#a371f7" textLength="54.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Uptime:</text>
 <text x="517.4" y="85.4" fill="#484f58" textLength="171.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .................... </text>
@@ -49,7 +49,7 @@
 <text x="447.2" y="119.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="119.4" fill="#a371f7" textLength="54.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Kernel:</text>
 <text x="517.4" y="119.4" fill="#484f58" textLength="171.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .................... </text>
-<text x="689.0" y="119.4" fill="#c9d1d9" textLength="163.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rock RMS / Web + Data</text>
+<text x="689.0" y="119.4" fill="#c9d1d9" textLength="202.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rock RMS / Obsidian + Lava</text>
 <text x="447.2" y="136.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="136.4" fill="#a371f7" textLength="31.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDE:</text>
 <text x="494.0" y="136.4" fill="#484f58" textLength="195.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ....................... </text>
@@ -57,7 +57,7 @@
 <text x="447.2" y="170.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="170.4" fill="#a371f7" textLength="171.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Languages.Programming:</text>
 <text x="634.4" y="170.4" fill="#484f58" textLength="54.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ..... </text>
-<text x="689.0" y="170.4" fill="#c9d1d9" textLength="210.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">C#, TypeScript, Python, SQL</text>
+<text x="689.0" y="170.4" fill="#c9d1d9" textLength="249.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">C#, TypeScript, Vue, Python, SQL</text>
 <text x="447.2" y="187.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="187.4" fill="#a371f7" textLength="132.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Languages.Markup:</text>
 <text x="595.4" y="187.4" fill="#484f58" textLength="93.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .......... </text>
@@ -69,11 +69,11 @@
 <text x="447.2" y="238.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="238.4" fill="#a371f7" textLength="46.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Focus:</text>
 <text x="509.6" y="238.4" fill="#484f58" textLength="179.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ..................... </text>
-<text x="689.0" y="238.4" fill="#c9d1d9" textLength="280.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Church tech, automation, MCP servers</text>
+<text x="689.0" y="238.4" fill="#c9d1d9" textLength="249.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rock plugins, check-in, security</text>
 <text x="447.2" y="255.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="255.4" fill="#a371f7" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Building:</text>
 <text x="533.0" y="255.4" fill="#484f58" textLength="156.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .................. </text>
-<text x="689.0" y="255.4" fill="#c9d1d9" textLength="280.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rock plugins, Lava apps, dev tooling</text>
+<text x="689.0" y="255.4" fill="#c9d1d9" textLength="257.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Obsidian blocks for the Rock Shop</text>
 <text x="447.2" y="289.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="289.4" fill="#f0883e" textLength="54.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve" font-weight="700">Contact</text>
 <text x="517.4" y="289.4" fill="#30363d" textLength="382.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ------------------------------------------------</text>
@@ -105,16 +105,16 @@
 <text x="447.2" y="442.4" fill="#484f58" textLength="15.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- </text>
 <text x="462.8" y="442.4" fill="#f0883e" textLength="85.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve" font-weight="700">Recent work</text>
 <text x="548.6" y="442.4" fill="#30363d" textLength="351.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> --------------------------------------------</text>
-<text x="462.8" y="459.4" fill="#a371f7" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">squirrel:</text>
-<text x="533.0" y="459.4" fill="#484f58" textLength="156.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .................. </text>
-<text x="689.0" y="459.4" fill="#c9d1d9" textLength="249.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Project keeper for an ADHD brain</text>
-<text x="462.8" y="476.4" fill="#a371f7" textLength="70.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">rock-mcp:</text>
-<text x="533.0" y="476.4" fill="#484f58" textLength="156.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .................. </text>
-<text x="689.0" y="476.4" fill="#c9d1d9" textLength="257.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Read-only MCP server for Rock RMS</text>
-<text x="462.8" y="493.4" fill="#a371f7" textLength="46.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Cairn:</text>
-<text x="509.6" y="493.4" fill="#484f58" textLength="179.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ..................... </text>
-<text x="689.0" y="493.4" fill="#c9d1d9" textLength="273.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Following-event components for Rock</text>
-<text x="462.8" y="510.4" fill="#a371f7" textLength="124.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">lava-playground:</text>
-<text x="587.6" y="510.4" fill="#484f58" textLength="101.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........... </text>
-<text x="689.0" y="510.4" fill="#c9d1d9" textLength="226.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Live Lava template playground</text>
+<text x="462.8" y="459.4" fill="#a371f7" textLength="124.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CheckInInsights:</text>
+<text x="587.6" y="459.4" fill="#484f58" textLength="101.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ........... </text>
+<text x="689.0" y="459.4" fill="#c9d1d9" textLength="265.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Check-in timeline and status audit</text>
+<text x="462.8" y="476.4" fill="#a371f7" textLength="109.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">RockDetective:</text>
+<text x="572.0" y="476.4" fill="#484f58" textLength="117.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ............. </text>
+<text x="689.0" y="476.4" fill="#c9d1d9" textLength="265.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Case-file problem solving for Rock</text>
+<text x="462.8" y="493.4" fill="#a371f7" textLength="85.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">omniLingua:</text>
+<text x="548.6" y="493.4" fill="#484f58" textLength="140.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ................ </text>
+<text x="689.0" y="493.4" fill="#c9d1d9" textLength="273.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Visitor-facing translation for Rock</text>
+<text x="462.8" y="510.4" fill="#a371f7" textLength="46.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Argus:</text>
+<text x="509.6" y="510.4" fill="#484f58" textLength="179.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ..................... </text>
+<text x="689.0" y="510.4" fill="#c9d1d9" textLength="241.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Site audit and asset downloader</text>
 </g></svg>

@@ -5,7 +5,7 @@
     [
       "kv",
       "OS",
-      "Windows 11, macOS, Linux"
+      "Ubuntu, Arch, macOS, Win11"
     ],
     [
       "kv",
@@ -20,7 +20,7 @@
     [
       "kv",
       "Kernel",
-      "Rock RMS / Web + Data"
+      "Rock RMS / Obsidian + Lava"
     ],
     [
       "kv",
@@ -33,7 +33,7 @@
     [
       "kv",
       "Languages.Programming",
-      "C#, TypeScript, Python, SQL"
+      "C#, TypeScript, Vue, Python, SQL"
     ],
     [
       "kv",
@@ -51,12 +51,12 @@
     [
       "kv",
       "Focus",
-      "Church tech, automation, MCP servers"
+      "Rock plugins, check-in, security"
     ],
     [
       "kv",
       "Building",
-      "Rock plugins, Lava apps, dev tooling"
+      "Obsidian blocks for the Rock Shop"
     ],
     [
       "section",
@@ -91,23 +91,23 @@
     ],
     [
       "kv2",
-      "squirrel",
-      "Project keeper for an ADHD brain"
+      "CheckInInsights",
+      "Check-in timeline and status audit"
     ],
     [
       "kv2",
-      "rock-mcp",
-      "Read-only MCP server for Rock RMS"
+      "RockDetective",
+      "Case-file problem solving for Rock"
     ],
     [
       "kv2",
-      "Cairn",
-      "Following-event components for Rock"
+      "omniLingua",
+      "Visitor-facing translation for Rock"
     ],
     [
       "kv2",
-      "lava-playground",
-      "Live Lava template playground"
+      "Argus",
+      "Site audit and asset downloader"
     ]
   ],
   "created_at": "2024-09-03",
