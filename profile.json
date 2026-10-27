@@ -85,7 +85,7 @@
       "stats_repos"
     ],
     [
-      "stats_commits"
+      "stats_contributions"
     ],
     [
       "stats_lang"
@@ -119,7 +119,7 @@
   "stats": {
     "repos": 9,
     "stars": 1,
-    "commits": 80,
+    "contributions": 80,
     "followers": 6,
     "top_language": "C#",
     "top_language_pct": 57

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["profile.json", "art.txt", "generate.py"]
+    paths: ["profile.json", "art.txt", "generate.py", "update_stats.py"]
 
 permissions:
   contents: write
