@@ -5,7 +5,7 @@
     [
       "kv",
       "OS",
-      "Windows 11, macOS, Linux"
+      "Ubuntu, Arch, macOS, Win11"
     ],
     [
       "kv",
@@ -20,7 +20,7 @@
     [
       "kv",
       "Kernel",
-      "Rock RMS / Web + Data"
+      "Rock RMS / Obsidian + Lava"
     ],
     [
       "kv",
@@ -33,7 +33,7 @@
     [
       "kv",
       "Languages.Programming",
-      "C#, TypeScript, Python, SQL"
+      "C#, TypeScript, Vue, Python, SQL"
     ],
     [
       "kv",
@@ -43,7 +43,7 @@
     [
       "kv",
       "Languages.Real",
-      "English"
+      "EN, TR, ES (+ a bit of KO, RU)"
     ],
     [
       "gap"
@@ -51,12 +51,12 @@
     [
       "kv",
       "Focus",
-      "Church tech, automation, MCP servers"
+      "Rock plugins, check-in, security"
     ],
     [
       "kv",
       "Building",
-      "Rock plugins, Lava apps, dev tooling"
+      "Obsidian blocks for the Rock Shop"
     ],
     [
       "section",
@@ -70,7 +70,12 @@
     [
       "kv2",
       "Website",
-      "houstonsfirst.org"
+      "yesu.dev"
+    ],
+    [
+      "kv2",
+      "Email",
+      "mail@yesu.dev"
     ],
     [
       "section",
@@ -80,7 +85,7 @@
       "stats_repos"
     ],
     [
-      "stats_commits"
+      "stats_contributions"
     ],
     [
       "stats_lang"
@@ -91,30 +96,30 @@
     ],
     [
       "kv2",
-      "squirrel",
-      "Project keeper for an ADHD brain"
+      "CheckInInsights",
+      "Check-in timeline and status audit"
     ],
     [
       "kv2",
-      "rock-mcp",
-      "Read-only MCP server for Rock RMS"
+      "RockDetective",
+      "Case-file problem solving for Rock"
     ],
     [
       "kv2",
-      "Cairn",
-      "Following-event components for Rock"
+      "omniLingua",
+      "Visitor-facing translation for Rock"
     ],
     [
       "kv2",
-      "lava-playground",
-      "Live Lava template playground"
+      "Argus",
+      "Site audit and asset downloader"
     ]
   ],
   "created_at": "2024-09-03",
   "stats": {
     "repos": 9,
     "stars": 1,
-    "commits": 80,
+    "contributions": 455,
     "followers": 6,
     "top_language": "C#",
     "top_language_pct": 57

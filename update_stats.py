@@ -4,13 +4,25 @@ Refresh the numbers in profile.json from the GitHub API, then re-render.
 Run by .github/workflows/refresh.yml; GITHUB_TOKEN is enough (public data only).
 """
 import json, os, sys, urllib.error, urllib.request
+from datetime import datetime, timedelta, timezone
 
 API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 
-def get(path):
-    req = urllib.request.Request(API + path,
+CONTRIBUTIONS = """
+query($login: String!, $from: DateTime!, $to: DateTime!) {
+  user(login: $login) {
+    contributionsCollection(from: $from, to: $to) {
+      contributionCalendar { totalContributions }
+    }
+  }
+}"""
+
+
+def get(path, body=None):
+    data = None if body is None else json.dumps(body).encode()
+    req = urllib.request.Request(API + path, data=data,
                                  headers={"Accept": "application/vnd.github+json",
                                           "User-Agent": "profile-refresh"})
     if TOKEN:
@@ -47,9 +59,19 @@ def main():
             stats["top_language"] = top
             stats["top_language_pct"] = round(n / sum(langs.values()) * 100)
 
-        commits = get(f"/search/commits?q=author:{user}&per_page=1")
-        stats["commits"] = commits["total_count"]
-    except (urllib.error.URLError, urllib.error.HTTPError, KeyError) as e:
+        start = datetime.fromisoformat(cfg["created_at"]).replace(tzinfo=timezone.utc)
+        now, total = datetime.now(timezone.utc), 0
+        while start < now:
+            end = min(start + timedelta(days=365), now)
+            res = get("/graphql", {"query": CONTRIBUTIONS,
+                                   "variables": {"login": user,
+                                                 "from": start.isoformat(),
+                                                 "to": end.isoformat()}})
+            cc = res["data"]["user"]["contributionsCollection"]
+            total += cc["contributionCalendar"]["totalContributions"]
+            start = end
+        stats["contributions"] = total
+    except (urllib.error.URLError, urllib.error.HTTPError, KeyError, TypeError) as e:
         # Never fail the run over a flaky API - keep the numbers we already have.
         print(f"warning: stats refresh incomplete ({e}); keeping existing values",
               file=sys.stderr)

@@ -75,10 +75,10 @@ def build_info(cfg):
             kv("Repos", [(str(st["repos"]), "num"),
                          ("  |  Stars: ", "dim"), (str(st["stars"]), "num")],
                bullet="  ")
-        elif kind == "stats_commits":
-            kv("Commits", [(str(st["commits"]), "num"),
-                           ("  |  Followers: ", "dim"),
-                           (str(st["followers"]), "num")], bullet="  ")
+        elif kind == "stats_contributions":
+            kv("Contributions", [(str(st["contributions"]), "num"),
+                                 ("  |  Followers: ", "dim"),
+                                 (str(st["followers"]), "num")], bullet="  ")
         elif kind == "stats_lang":
             kv("Top language", [(st["top_language"], "value"), ("  (", "dim"),
                                 (f'{st["top_language_pct"]}%', "num"),
